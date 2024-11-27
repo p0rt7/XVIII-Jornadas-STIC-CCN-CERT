@@ -1,0 +1,7 @@
+Analiza y estructura la información que aparece en los siguientes ficheros excel. Necesito que me generes un fichero excel con las siguientes pestañas:
+
+- Primera columna con el nombre de IoC - Infraestructura: Quiero que me estructures la información que este relacionada únicamente con dominios, url, hostnames e ip con su información relacionada.
+- Segunda columna con el nombre de IoC - Muestras: Quiero que me representes en esta pestaña toda la información de muestras maliciosas del tipo hash o file con su información relacionada.
+- Tercera columna con el nombre de TTPs - Globales: Quiero que me estructures la información de los TTPs identificados en los ficheros excel facilitados con su información relacionada.
+- Cuarta columna con el nombre de TTPs - Únicos: Quiero que me estructures la información de los TTPs identificados en los ficheros excel facilitados pero con las tácticas y técnicas únicas y con su información relacionada.
+- Quinta columna con el nombre de Vulnerabilidades: Quiero que me estructures la información sobre los CVE que detectes en los ficheros excels con su información relacionada.

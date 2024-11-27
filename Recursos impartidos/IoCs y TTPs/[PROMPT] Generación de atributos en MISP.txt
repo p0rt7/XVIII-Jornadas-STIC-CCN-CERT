@@ -1,0 +1,5 @@
+Analizame el fichero excel e identifica los indicadores de compromiso tipo hash de sha256, sha1, md5, Imphash, file, dominio, hostname, ip, CVE y tool. 
+Cuando tengas identificados los datos anteriores quiero que me prepares un fichero JSON con formato MISP para importar atributos. 
+Para ello quiero que no utilices la etiqueta event o events dentro del JSON al comienzo y que el campo attributes lo renombres a Attribute.
+
+Facilitame el fichero JSON resultante

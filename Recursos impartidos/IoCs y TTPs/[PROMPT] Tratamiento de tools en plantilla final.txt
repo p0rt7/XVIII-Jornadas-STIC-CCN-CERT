@@ -1,0 +1,1 @@
+Quiero que en el excel que te he facilitado añadas una nueva pestaña nombrada Tools y almacenes en el las tools acompañadas con la categorización asociada que aparecen en el fichero JSON. No modifiques ninguna otra pestaña y mantenlas tal cual. Por último facilitame el excel nuevo.

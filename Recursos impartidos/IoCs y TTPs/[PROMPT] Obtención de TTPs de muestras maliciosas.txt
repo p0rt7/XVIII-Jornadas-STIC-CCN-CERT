@@ -1,0 +1,1 @@
+De los siguientes archivos quiero que me generes un fichero excel con todos los TTPs que aparecen en todos los archivos y que me facilites datos únicos sin repeticiones representando el ID de la táctica, nombre de la táctica, ID de la Técnica, nombre de la técnica, nombre del sandbox, ademas del hash analizado obteniéndolo del campo self dentro del campo links.
