@@ -9,3 +9,7 @@ En las operaciones diarias de las unidades de inteligencia, es habitual enfrenta
 Iván Portillo - <a href=https://www.linkedin.com/in/ivanportillomorales> LinkedIn </a> | <a href=https://twitter.com/ivanPorMor>@IvanPormor</a>
 <br>
 Claudia Sánchez-Girón  - <a href=https://www.linkedin.com/in/claudia-s%C3%A1nchez-gir%C3%B3n-l%C3%B3pez-0a2094a0> LinkedIn </a>
+<br>
+<h2> Recursos facilitados</h2>
+Se facilitan una serie de recursos para la impartición de la ponencia/taller alojadas en la carpeta "Recursos facilitados" del presente repositorio
+
